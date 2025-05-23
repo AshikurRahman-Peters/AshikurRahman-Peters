@@ -12,10 +12,10 @@
 - 🛠️ Specialized in **PHP, Python, JavaScript, SQL, ERP Integration, API Development**
 - 🌱 Currently learning **Cloud Computing, Data Engineering & AI/ML**
 - 💼 Target Role: **Software Solution Architect**
-- 👥 Collaborating on: [Smart Inventory Tracker](https://github.com/AshikurRahman-Peter/smart-inventory-tracker)
+- 👥 Collaborating on: [Smart Inventory Tracker](https://github.com/AshikurRahman-Peters/smart-inventory-tracker)
 - 📫 Reach me at: **ashikurrahmanpeters@gmail.com**
 - 🌍 LinkedIn: [ashikur-rahman-peters](https://www.linkedin.com/in/ashikur-rahman-peters-243709152/)
-- 🖥️ Portfolio: [GitHub Profile](https://github.com/AshikurRahman-Peter)
+- 🖥️ Portfolio: [GitHub Profile](https://github.com/AshikurRahman-Peters)
 
 ---
 
@@ -67,7 +67,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashikur-rahman-peters-243709152/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
   <a href="mailto:ashikurrahmanpeters@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"></a>
-  <a href="https://github.com/AshikurRahman-Peter"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black"></a>
+  <a href="https://github.com/AshikurRahman-Peters"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black"></a>
   <a href="https://gitlab.com/AshikurRahman-Peters?nav_source=navbar"><img src="https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab"></a>
 </p>
 
